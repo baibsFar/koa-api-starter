@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "esModuleInterop": true,
+    "rootDir": "src",
+    "outDir": "build",
+    "resolveJsonModule": true,
+    "module": "Node16",
+    "allowJs": true,
+    "noImplicitAny": true,
+    "emitDecoratorMetadata": true,
+    "experimentalDecorators": true
+  },
+  "include": ["src/**/*"],
+  "exclude": ["build"]
+}
